@@ -1,0 +1,22 @@
+
+
+body {
+    background-color: royalblue;
+    color: silver;
+}
+
+header {
+    top-padding: 3rem;
+    bottom-padding: 3rem;
+    background-color: darkgray;
+}
+
+footer {
+    top-padding: 2rem;
+    bottom-padding: 2rem;
+    background-color: darkgray;
+}
+
+main {
+    padding: 4rem;
+}
