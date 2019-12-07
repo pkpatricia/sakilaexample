@@ -3,20 +3,20 @@
 body {
     background-color: royalblue;
     color: silver;
+    margin: 0 auto;
 }
 
 header {
-    top-padding: 3rem;
-    bottom-padding: 3rem;
     background-color: darkgray;
+    padding: 3rem;
 }
 
 footer {
-    top-padding: 2rem;
-    bottom-padding: 2rem;
     background-color: darkgray;
+    padding: 2rem 3rem;
 }
 
 main {
     padding: 4rem;
+    min-height: 100%;
 }
